@@ -200,3 +200,4 @@ make
 <!-- Document documentation -->
 <!-- Update parameters -->
 <!-- Clean up structure -->
+<!-- Refactor configuration -->
