@@ -133,3 +133,4 @@ make
 <!-- Clean up parameters -->
 <!-- Clean up error messages -->
 <!-- Update structure -->
+<!-- Refactor configuration -->
