@@ -58,3 +58,4 @@ make
 <!-- Format variable names -->
 <!-- Document configuration -->
 <!-- Clean up structure -->
+<!-- Improve documentation -->
