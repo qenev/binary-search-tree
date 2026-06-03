@@ -45,3 +45,4 @@ make
 <!-- Format documentation -->
 <!-- Clean up logic flow -->
 <!-- Refactor comments -->
+<!-- Improve structure -->
