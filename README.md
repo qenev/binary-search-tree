@@ -52,3 +52,4 @@ make
 <!-- Format variable names -->
 <!-- Improve comments -->
 <!-- Improve logic flow -->
+<!-- Document error messages -->
