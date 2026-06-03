@@ -238,3 +238,4 @@ make
 <!-- Optimize error messages -->
 <!-- Update variable names -->
 <!-- Optimize variable names -->
+<!-- Document configuration -->
