@@ -173,3 +173,4 @@ make
 <!-- Improve structure -->
 <!-- Improve parameters -->
 <!-- Refactor variable names -->
+<!-- Improve configuration -->
