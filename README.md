@@ -54,3 +54,4 @@ make
 <!-- Improve logic flow -->
 <!-- Document error messages -->
 <!-- Clean up documentation -->
+<!-- Refactor documentation -->
