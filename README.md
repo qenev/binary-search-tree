@@ -47,3 +47,4 @@ make
 <!-- Refactor comments -->
 <!-- Improve structure -->
 <!-- Improve logic flow -->
+<!-- Format variable names -->
