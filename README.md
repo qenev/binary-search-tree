@@ -20,3 +20,4 @@ make
 <!-- Document structure -->
 <!-- Update logic flow -->
 <!-- Tweak structure -->
+<!-- Document error messages -->
