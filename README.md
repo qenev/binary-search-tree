@@ -75,3 +75,4 @@ make
 <!-- Clean up configuration -->
 <!-- Format structure -->
 <!-- Improve documentation -->
+<!-- Improve structure -->
