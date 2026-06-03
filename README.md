@@ -110,3 +110,4 @@ make
 <!-- Format configuration -->
 <!-- Clean up comments -->
 <!-- Optimize documentation -->
+<!-- Document logic flow -->
