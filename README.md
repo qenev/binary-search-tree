@@ -147,3 +147,4 @@ make
 <!-- Refactor configuration -->
 <!-- Improve parameters -->
 <!-- Document logic flow -->
+<!-- Improve comments -->
