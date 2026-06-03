@@ -57,3 +57,4 @@ make
 <!-- Refactor documentation -->
 <!-- Format variable names -->
 <!-- Document configuration -->
+<!-- Clean up structure -->
