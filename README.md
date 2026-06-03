@@ -74,3 +74,4 @@ make
 <!-- Clean up error messages -->
 <!-- Clean up configuration -->
 <!-- Format structure -->
+<!-- Improve documentation -->
