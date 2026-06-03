@@ -27,3 +27,4 @@ make
 <!-- Format comments -->
 <!-- Optimize variable names -->
 <!-- Optimize structure -->
+<!-- Optimize configuration -->
