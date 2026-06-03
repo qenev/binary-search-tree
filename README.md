@@ -67,3 +67,4 @@ make
 <!-- Improve logic flow -->
 <!-- Update documentation -->
 <!-- Refactor error messages -->
+<!-- Update structure -->
