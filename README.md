@@ -129,3 +129,4 @@ make
 <!-- Document error messages -->
 <!-- Refactor error messages -->
 <!-- Document variable names -->
+<!-- Optimize logic flow -->
