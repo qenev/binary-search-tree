@@ -41,3 +41,4 @@ make
 <!-- Refactor parameters -->
 <!-- Optimize documentation -->
 <!-- Refactor structure -->
+<!-- Clean up parameters -->
