@@ -80,3 +80,4 @@ make
 <!-- Optimize variable names -->
 <!-- Optimize comments -->
 <!-- Improve configuration -->
+<!-- Document structure -->
