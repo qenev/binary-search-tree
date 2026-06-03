@@ -38,3 +38,4 @@ make
 <!-- Optimize structure -->
 <!-- Refactor variable names -->
 <!-- Update structure -->
+<!-- Refactor parameters -->
