@@ -39,3 +39,4 @@ make
 <!-- Refactor variable names -->
 <!-- Update structure -->
 <!-- Refactor parameters -->
+<!-- Optimize documentation -->
