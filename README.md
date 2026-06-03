@@ -183,3 +183,4 @@ make
 <!-- Refactor error messages -->
 <!-- Tweak configuration -->
 <!-- Clean up documentation -->
+<!-- Refactor configuration -->
