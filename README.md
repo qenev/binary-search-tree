@@ -176,3 +176,4 @@ make
 <!-- Improve configuration -->
 <!-- Clean up variable names -->
 <!-- Format comments -->
+<!-- Format configuration -->
