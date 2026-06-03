@@ -232,3 +232,4 @@ make
 <!-- Format variable names -->
 <!-- Clean up structure -->
 <!-- Update logic flow -->
+<!-- Update error messages -->
