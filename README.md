@@ -53,3 +53,4 @@ make
 <!-- Improve comments -->
 <!-- Improve logic flow -->
 <!-- Document error messages -->
+<!-- Clean up documentation -->
