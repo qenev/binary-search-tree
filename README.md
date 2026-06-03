@@ -68,3 +68,4 @@ make
 <!-- Update documentation -->
 <!-- Refactor error messages -->
 <!-- Update structure -->
+<!-- Update logic flow -->
