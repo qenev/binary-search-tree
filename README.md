@@ -169,3 +169,4 @@ make
 <!-- Improve parameters -->
 <!-- Document configuration -->
 <!-- Improve configuration -->
+<!-- Clean up structure -->
