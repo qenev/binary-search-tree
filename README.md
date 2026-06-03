@@ -113,3 +113,4 @@ make
 <!-- Document logic flow -->
 <!-- Optimize comments -->
 <!-- Improve variable names -->
+<!-- Clean up structure -->
