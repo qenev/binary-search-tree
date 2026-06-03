@@ -66,3 +66,4 @@ make
 <!-- Refactor parameters -->
 <!-- Improve logic flow -->
 <!-- Update documentation -->
+<!-- Refactor error messages -->
