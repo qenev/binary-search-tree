@@ -17,3 +17,4 @@ make
 <!-- Improve configuration -->
 <!-- Improve error messages -->
 <!-- Tweak parameters -->
+<!-- Document structure -->
