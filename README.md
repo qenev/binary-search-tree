@@ -162,3 +162,4 @@ make
 <!-- Clean up comments -->
 <!-- Clean up configuration -->
 <!-- Update logic flow -->
+<!-- Clean up structure -->
