@@ -48,3 +48,4 @@ make
 <!-- Improve structure -->
 <!-- Improve logic flow -->
 <!-- Format variable names -->
+<!-- Improve comments -->
