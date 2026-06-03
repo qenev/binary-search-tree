@@ -36,3 +36,4 @@ make
 <!-- Update comments -->
 <!-- Clean up logic flow -->
 <!-- Optimize structure -->
+<!-- Refactor variable names -->
