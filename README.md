@@ -95,3 +95,4 @@ make
 <!-- Improve structure -->
 <!-- Improve structure -->
 <!-- Refactor error messages -->
+<!-- Clean up variable names -->
