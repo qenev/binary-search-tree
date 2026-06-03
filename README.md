@@ -12,6 +12,14 @@ A clean, templated Binary Search Tree implementation in modern C++.
 make
 ```
 
+
+
+## Open Source Contribution
+
+Contributions are welcome! Feel free to open issues or submit pull requests.
+
+MIT License. See `LICENSE` for details.
+
 <!-- Tweak error messages -->
 <!-- Clean up configuration -->
 <!-- Improve configuration -->
