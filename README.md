@@ -208,3 +208,4 @@ make
 <!-- Refactor parameters -->
 <!-- Optimize configuration -->
 <!-- Format variable names -->
+<!-- Clean up documentation -->
