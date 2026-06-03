@@ -56,3 +56,4 @@ make
 <!-- Clean up documentation -->
 <!-- Refactor documentation -->
 <!-- Format variable names -->
+<!-- Document configuration -->
