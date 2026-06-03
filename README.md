@@ -189,3 +189,4 @@ make
 <!-- Update documentation -->
 <!-- Clean up variable names -->
 <!-- Document configuration -->
+<!-- Optimize comments -->
