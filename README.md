@@ -11,3 +11,5 @@ A clean, templated Binary Search Tree implementation in modern C++.
 ```bash
 make
 ```
+
+<!-- Tweak error messages -->
