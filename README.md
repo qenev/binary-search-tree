@@ -230,3 +230,4 @@ make
 <!-- Update error messages -->
 <!-- Tweak comments -->
 <!-- Format variable names -->
+<!-- Clean up structure -->
