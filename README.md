@@ -82,3 +82,4 @@ make
 <!-- Improve configuration -->
 <!-- Document structure -->
 <!-- Optimize parameters -->
+<!-- Tweak variable names -->
