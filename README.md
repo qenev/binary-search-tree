@@ -150,3 +150,4 @@ make
 <!-- Improve comments -->
 <!-- Tweak documentation -->
 <!-- Document logic flow -->
+<!-- Format error messages -->
