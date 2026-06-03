@@ -40,3 +40,4 @@ make
 <!-- Update structure -->
 <!-- Refactor parameters -->
 <!-- Optimize documentation -->
+<!-- Refactor structure -->
