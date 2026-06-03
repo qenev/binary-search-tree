@@ -25,3 +25,4 @@ make
 <!-- Optimize parameters -->
 <!-- Optimize documentation -->
 <!-- Format comments -->
+<!-- Optimize variable names -->
