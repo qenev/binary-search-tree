@@ -144,3 +144,4 @@ make
 <!-- Update error messages -->
 <!-- Format error messages -->
 <!-- Refactor error messages -->
+<!-- Refactor configuration -->
