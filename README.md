@@ -167,3 +167,4 @@ make
 <!-- Clean up comments -->
 <!-- Update documentation -->
 <!-- Improve parameters -->
+<!-- Document configuration -->
