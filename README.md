@@ -156,3 +156,4 @@ make
 <!-- Improve documentation -->
 <!-- Update error messages -->
 <!-- Clean up error messages -->
+<!-- Document configuration -->
