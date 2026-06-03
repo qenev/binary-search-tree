@@ -96,3 +96,4 @@ make
 <!-- Improve structure -->
 <!-- Refactor error messages -->
 <!-- Clean up variable names -->
+<!-- Refactor logic flow -->
