@@ -61,3 +61,4 @@ make
 <!-- Improve documentation -->
 <!-- Clean up logic flow -->
 <!-- Format logic flow -->
+<!-- Update structure -->
