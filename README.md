@@ -217,3 +217,4 @@ make
 <!-- Tweak variable names -->
 <!-- Clean up comments -->
 <!-- Clean up configuration -->
+<!-- Document variable names -->
