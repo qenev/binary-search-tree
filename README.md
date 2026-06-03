@@ -77,3 +77,4 @@ make
 <!-- Improve documentation -->
 <!-- Improve structure -->
 <!-- Improve structure -->
+<!-- Optimize variable names -->
