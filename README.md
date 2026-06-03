@@ -92,3 +92,4 @@ make
 <!-- Optimize error messages -->
 <!-- Update structure -->
 <!-- Document logic flow -->
+<!-- Improve structure -->
