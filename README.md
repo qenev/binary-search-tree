@@ -78,3 +78,4 @@ make
 <!-- Improve structure -->
 <!-- Improve structure -->
 <!-- Optimize variable names -->
+<!-- Optimize comments -->
