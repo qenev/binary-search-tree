@@ -59,3 +59,4 @@ make
 <!-- Document configuration -->
 <!-- Clean up structure -->
 <!-- Improve documentation -->
+<!-- Clean up logic flow -->
