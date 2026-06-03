@@ -199,3 +199,4 @@ make
 <!-- Refactor parameters -->
 <!-- Document documentation -->
 <!-- Update parameters -->
+<!-- Clean up structure -->
