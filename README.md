@@ -43,3 +43,4 @@ make
 <!-- Refactor structure -->
 <!-- Clean up parameters -->
 <!-- Format documentation -->
+<!-- Clean up logic flow -->
