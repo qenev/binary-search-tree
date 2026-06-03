@@ -130,3 +130,4 @@ make
 <!-- Refactor error messages -->
 <!-- Document variable names -->
 <!-- Optimize logic flow -->
+<!-- Clean up parameters -->
